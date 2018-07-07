@@ -1,6 +1,6 @@
 {
   "name": "feather-vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/feather-vue.umd.js",
   "module": "dist/feather-vue.esm.js",
   "unpkg": "dist/feather-vue.umd.js",
