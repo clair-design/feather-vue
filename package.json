@@ -1,0 +1,20 @@
+{
+  "name": "feather-vue",
+  "version": "1.0.0",
+  "main": "dist/feather-vue.umd.js",
+  "module": "dist/feather-vue.esm.js",
+  "unpkg": "dist/feather-vue.umd.js",
+  "files": ["dist"],
+  "repository": "https://github.com/clair-design/feather-vue.git",
+  "author": "wemlion <angusfu1126@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "node lib/build.js"
+  },
+  "devDependencies": {
+    "feather-icons": "^4.7.3",
+    "glob": "^7.1.2",
+    "rollup": "^0.62.0",
+    "rollup-plugin-svg-vue": "^1.0.3"
+  }
+}
